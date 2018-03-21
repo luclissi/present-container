@@ -16,7 +16,7 @@ A apresentação tem como tópicos:
 Execute o comando
 
 ```
-$ docker run -p 3999:3999 luccame/present:docker_01
+$ docker run -p 3999:3999 luccame/present:container_01
 ```
 
 e abra o link [Container](http://localhost:3999)
